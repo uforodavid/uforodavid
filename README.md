@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uforodavid
+- 👋 Hi, I’m  David Uforo
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning A/B testing.
 - 💞️ I’m looking to collaborate on 
