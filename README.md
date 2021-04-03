@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  David Uforo
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently working on recommendation engine with IBM as part of Udacity Data Scientist Nanodegree program..
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on sentiment analysis on twitter dataset.
 - 📫 you can reach me on daviduforo@outlook.com
 
 <!---
