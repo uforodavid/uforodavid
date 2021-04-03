@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  David Uforo
 - 👀 I’m interested in data science and analytics
-- 🌱 I’m currently learning A/B testing.
+- 🌱 I’m currently working on recommendation engine with IBM as part of Udacity Data Scientist Nanodegree program..
 - 💞️ I’m looking to collaborate on 
 - 📫 you can reach me on daviduforo@outlook.com
 
